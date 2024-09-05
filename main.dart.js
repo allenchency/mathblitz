@@ -94345,7 +94345,7 @@ H(a){var s,r,q=this,p=null,o="background",n=A.O("Shop",p,p,p,p,A.a8(p,p,B.k,p,p,
 n=A.eT(A.b([A.dt(A.b([A.c8(B.h5,B.ho,p,p),A.aG(p,p,8),A.O(""+q.d,p,p,p,p,A.a8(p,p,B.k,p,p,p,p,p,p,p,p,20,p,p,B.x,p,p,!0,p,p,p,p,p,p,p,p),p,p),A.aG(p,p,16)],m),B.r,B.y,B.t)],m),!0,B.v,p,0,p,n)
 s=A.eT(p,!0,p,p,p,p,p)
 r=A.bW(a,p,t.w).w
-return A.et(n,p,A.aPC(0.75,A.b([q.z7("Avatar 10",100,"assets/avatar/avatar10.png","avatar"),q.z7("Avatar 11",200,"assets/avatar/avatar11.png","avatar"),q.z7("Background 3",300,"assets/background/background3.png",o),q.z7("Background 4",400,"assets/background/background4.png",o)],m),2,0,0,new A.a4(16,s.fx.b+r.r.b+16,16,16),p,!1),!1,!0)},
+return A.et(n,p,A.aPC(0.75,A.b([q.z7("dog",100,"assets/avatar/avatar10.png","avatar"),q.z7("Ewe",200,"assets/avatar/avatar11.png","avatar"),q.z7("Background3",300,"assets/background/background3.png",o),q.z7("Background4",400,"assets/background/background4.png",o)],m),2,0,0,new A.a4(16,s.fx.b+r.r.b+16,16,16),p,!1),!1,!0)},
 z7(a,b,c,d){var s=null,r=B.b.p(this.e,c),q=A.bw(15),p=A.dM(new A.bE(B.fQ,A.QD(c,B.fi,s),s),1),o=A.O(a,s,s,s,s,A.a8(s,s,B.k,s,s,s,s,s,s,s,s,16,s,s,B.x,s,s,!0,s,s,s,s,s,s,s,s),B.dN,s),n=A.aG(s,8,s),m=t.p,l=A.dt(A.b([A.c8(B.h5,B.ho,s,20),A.aG(s,s,4),A.O(""+b,s,s,s,s,A.a8(s,s,B.k,s,s,s,s,s,s,s,s,s,s,s,B.x,s,s,!0,s,s,s,s,s,s,s,s),s,s)],m),B.r,B.aN,B.t),k=A.aG(s,8,s),j=A.O(r?"Owned":"Buy",s,s,s,s,s,s,s),i=r?B.aH:A.cf(10,132,255,1)
 i=A.e0(s,s,i,s,s,s,s,s,s,s,s,s,new A.a4(24,8,24,8),s,new A.bB(A.bw(20),B.m),s,s,s,s)
 return A.lY(A.bY(A.b([p,o,n,l,k,A.dy(j,r?s:new A.aE3(this,a,b,c,d),i),A.aG(s,8,s)],m),B.r,B.aN,B.t),B.fA,4,s,new A.bB(q,B.m))},
